@@ -103,3 +103,8 @@ This wine quality prediction system can be applied in multiple domains:
 This project effectively demonstrates the power of **Decision Tree Classification** in predicting wine quality based on its physicochemical properties. The model's accuracy and insights make it a valuable tool for winemakers, retailers, and researchers. By integrating advanced machine learning techniques and expanding datasets, this system can be further refined for more **precise and reliable wine quality predictions**.
 
 
+
+![Image](https://github.com/user-attachments/assets/a07387a2-59ab-4fc2-8e30-3c3b6bacc803)
+
+
+<img width="394" alt="Image" src="https://github.com/user-attachments/assets/8be49ee1-cc47-458e-9306-c66d1e7941d4" />
