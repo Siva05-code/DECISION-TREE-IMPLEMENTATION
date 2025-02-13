@@ -13,7 +13,7 @@ I
 *MENTOR*: NEELA SANTOSH
 
 
-##**Wine Quality Prediction using Decision Tree Classifier**
+**Wine Quality Prediction using Decision Tree Classifier**
 
 ### **Project Overview**
 Wine quality assessment is an essential task in the wine industry, as it helps in evaluating different wine samples based on their physicochemical properties. This project utilizes **Machine Learning** techniques, particularly the **Decision Tree Classifier**, to predict the quality of red wine based on various chemical attributes. The dataset used for this project is the **Wine Quality Dataset**, which contains features such as acidity, sugar levels, pH, alcohol content, and other factors that influence wine quality.
